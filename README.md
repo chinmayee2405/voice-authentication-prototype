@@ -12,9 +12,9 @@ Includes a basic **anti-spoofing check** using Zero Crossing Rate (ZCR) and Ener
 - GUI built with Tkinter  
 
 ## Requirements
-librosa
-numpy
-sounddevice
-scipy
-fastdtw
-tkinter
+- librosa
+- numpy
+- sounddevice
+- scipy
+- fastdtw
+- tkinter
